@@ -1,0 +1,13 @@
+C:\Users\dpank\Documents\C.NET\MovieMenuApp\MovieAppMenu\bin\Debug\netcoreapp3.1\MovieAppMenu.exe
+C:\Users\dpank\Documents\C.NET\MovieMenuApp\MovieAppMenu\bin\Debug\netcoreapp3.1\MovieAppMenu.deps.json
+C:\Users\dpank\Documents\C.NET\MovieMenuApp\MovieAppMenu\bin\Debug\netcoreapp3.1\MovieAppMenu.runtimeconfig.json
+C:\Users\dpank\Documents\C.NET\MovieMenuApp\MovieAppMenu\bin\Debug\netcoreapp3.1\MovieAppMenu.runtimeconfig.dev.json
+C:\Users\dpank\Documents\C.NET\MovieMenuApp\MovieAppMenu\bin\Debug\netcoreapp3.1\MovieAppMenu.dll
+C:\Users\dpank\Documents\C.NET\MovieMenuApp\MovieAppMenu\bin\Debug\netcoreapp3.1\MovieAppMenu.pdb
+C:\Users\dpank\Documents\C.NET\MovieMenuApp\MovieAppMenu\obj\Debug\netcoreapp3.1\MovieAppMenu.csprojAssemblyReference.cache
+C:\Users\dpank\Documents\C.NET\MovieMenuApp\MovieAppMenu\obj\Debug\netcoreapp3.1\MovieAppMenu.AssemblyInfoInputs.cache
+C:\Users\dpank\Documents\C.NET\MovieMenuApp\MovieAppMenu\obj\Debug\netcoreapp3.1\MovieAppMenu.AssemblyInfo.cs
+C:\Users\dpank\Documents\C.NET\MovieMenuApp\MovieAppMenu\obj\Debug\netcoreapp3.1\MovieAppMenu.csproj.CoreCompileInputs.cache
+C:\Users\dpank\Documents\C.NET\MovieMenuApp\MovieAppMenu\obj\Debug\netcoreapp3.1\MovieAppMenu.dll
+C:\Users\dpank\Documents\C.NET\MovieMenuApp\MovieAppMenu\obj\Debug\netcoreapp3.1\MovieAppMenu.pdb
+C:\Users\dpank\Documents\C.NET\MovieMenuApp\MovieAppMenu\obj\Debug\netcoreapp3.1\MovieAppMenu.genruntimeconfig.cache
